@@ -1,5 +1,5 @@
-### 12thMan
-> [Main Repo](https://github.com/abhinavxk0/twelfthman)
+### Latest Project
+> [12thMan](https://github.com/abhinavxk0/twelfthman)
 
 ### Inactive Discord Bot Repository Archives
 #### NearBot
