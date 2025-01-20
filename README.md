@@ -1,5 +1,5 @@
 ### Latest Project
-> 12thMan - [Website](https://12thman.vercel.app/) [Repository](https://github.com/abhinavxk0/twelfthman)
+> **12thMan** • [Website](https://12thman.vercel.app/) • [Repository](https://github.com/abhinavxk0/twelfthman)
 
 ### Inactive Discord Bot Repository Archives
 #### NearBot
