@@ -1,5 +1,5 @@
 ## ⚡Latest Project
-**12thMan** - A football scores web-app. <br> 
+**FutKik** - A football scores web-app. <br> 
 > [Website](https://12thman.vercel.app/) • [Repository](https://github.com/abhinavxk0/twelfthman)
 <br>
 <br>
