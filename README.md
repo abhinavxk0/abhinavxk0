@@ -1,9 +1,8 @@
 ## Latest Project
-**12thMan** A football score web-app. <br>[Website](https://12thman.vercel.app/) • [Repository](https://github.com/abhinavxk0/twelfthman)
+**12thMan** - A football scores web-app. <br>[Website](https://12thman.vercel.app/) • [Repository](https://github.com/abhinavxk0/twelfthman)
 <br>
 <br>
 <br>
-<hr>
 
 ## Inactive Discord Bot Repository Archives
 ### NearBot
