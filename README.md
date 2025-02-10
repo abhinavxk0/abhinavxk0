@@ -25,6 +25,35 @@
 <br>
 <br>
 ## 📊GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinavxk0&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavxk0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
-![](https://github-contributor-stats.vercel.app/api?username=abhinavxk0&limit=5&theme=dark&combine_all_yearly_contributions=true) <br/>
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80951367" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80951367&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @abhinavxk0" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80951367&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=80951367" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=80951367&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @abhinavxk0" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=80951367&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=80951367" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=80951367&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@abhinavxk0's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=80951367&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
