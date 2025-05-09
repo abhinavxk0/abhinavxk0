@@ -1,6 +1,6 @@
 ## ⚡Latest Project
-<p align="center">
-  <img src="https://github.com/abhinavxk0/upnext/blob/main/logo.png?raw=true" alt="Upnext Logo" width="100">
+<p align="left">
+  <img src="https://github.com/abhinavxk0/upnext/blob/main/logo.png?raw=true" alt="Upnext Logo" width="75">
 </p>
 
 ### Upnext
