@@ -4,7 +4,7 @@ A seamless way to be always updated with school events, activities etc. <br>
 > [Website](https://upnext0.vercel.app) • [Repository](https://github.com/abhinavxk0/upnext)
 <br>
 
-###Futkik
+### Futkik
 A football scores web-app. <br> 
 > [Website](https://futkik.vercel.app/) • [Repository](https://github.com/abhinavxk0/twelfthman)
 <br>
