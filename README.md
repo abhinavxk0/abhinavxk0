@@ -1,4 +1,9 @@
-## ⚡Latest Project
+## ⚡Latest Projects
+### Don Bosco School, Park Circus Website
+The official website.
+> [Website](https://www.donboscoparkcircus.org)
+<br>
+<br>
 <p align="left">
   <img src="https://github.com/abhinavxk0/upnext/blob/main/logo.png?raw=true" alt="Upnext Logo" width="75">
 </p>
@@ -25,29 +30,3 @@ A football scores web-app. <br>
 > [Truth and Dare](https://github.com/abhinavxk0/truth-and-dare) •
 [Music Bot](https://github.com/abhinavxk0/musicbot) •
 [Server Security](https://github.com/abhinavxk0/antinuke)
-<br>
-<br>
-<br>
-
-## 📊GitHub Stats:
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80951367" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80951367&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @abhinavxk0" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80951367&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=80951367" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=80951367&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @abhinavxk0" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=80951367&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
