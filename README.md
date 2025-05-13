@@ -1,4 +1,4 @@
-# 🧩 Abhinav Xavier Kujur
+# 🧩 About Me
 
 Hey there! This highlights some of the projects I’ve worked on recently—mainly around web development and automation. I enjoy building things that are practical, easy to use, and nice to look at.
 
