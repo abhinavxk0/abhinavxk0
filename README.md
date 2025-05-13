@@ -1,6 +1,6 @@
 # 🧩 Abhinav Xavier Kujur
 
-Hey there! This repo highlights some of the projects I’ve worked on recently—mainly around web development and automation. I enjoy building things that are practical, easy to use, and nice to look at.
+Hey there! This highlights some of the projects I’ve worked on recently—mainly around web development and automation. I enjoy building things that are practical, easy to use, and nice to look at.
 
 ---
 
