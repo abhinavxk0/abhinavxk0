@@ -7,18 +7,18 @@ Hey there! This highlights some of the projects I’ve worked on recently—main
 ## 🔧 Recent Work
 
 ### 📘 [Don Bosco School, Park Circus – Official Website](https://www.donboscoparkcircus.org)  
-Built the official website for Don Bosco School, Park Circus. It gives students, parents, and staff access to school updates, announcements, and events. Focused on mobile responsiveness and clean design.
+Developed a responsive and user-friendly website for Don Bosco School, providing students, parents, and staff with easy access to school updates and events.
 
 ---
 
 ### 🗓️ [Upnext](https://upnext0.vercel.app)  
-A simple, no-fuss app that keeps students updated with real-time school events and notices. Built with a focus on speed and usability.  
+A simple app for students to stay updated with school events and notices, designed with a focus on speed and ease of use.
 > 🔗 [View on GitHub](https://github.com/abhinavxk0/upnext)
 
 ---
 
 ### ⚽ [Futkik](https://futkik.vercel.app)  
-Football fans, this one’s for you. Futkik gives real-time match updates in a clean and lightweight interface. No clutter—just the scores.  
+A football app providing real-time match updates with a clean and minimal interface, prioritizing simplicity and speed.
 > 🔗 [View on GitHub](https://github.com/abhinavxk0/twelfthman)
 
 ---
@@ -26,17 +26,17 @@ Football fans, this one’s for you. Futkik gives real-time match updates in a c
 ## 🗂️ Past Projects – Discord Bots
 
 ### 🛠️ NearBot (Multi-Version Bot Framework)  
-Built a series of Discord bots over time to automate stuff, run commands, and add fun features in servers.  
+Developed a series of Discord bots to automate tasks, run commands, and add fun features to servers.
 > [v0](https://github.com/abhinavxk0/nearbeta0) • [v1](https://github.com/abhinavxk0/nearbeta1) • [v2](https://github.com/abhinavxk0/nearbot2) • [v3](https://github.com/abhinavxk0/nearbot)
 
 ---
 
 ### 🎮 Other Bots  
-- [Truth and Dare](https://github.com/abhinavxk0/truth-and-dare): Fun little party game for Discord  
-- [Music Bot](https://github.com/abhinavxk0/musicbot): Plays music in voice channels  
-- [Anti-Nuke Bot](https://github.com/abhinavxk0/antinuke): Helps keep servers safe from nuking attacks
+- [Truth and Dare](https://github.com/abhinavxk0/truth-and-dare): A fun party game for Discord 
+- [Music Bot](https://github.com/abhinavxk0/musicbot): Plays music in voice channels
+- [Anti-Nuke Bot](https://github.com/abhinavxk0/antinuke): Protects servers from nuking attacks
 
 ---
 
 ## 📫 Let’s Connect  
-Got feedback or an idea? Feel free to open an issue or reach out via GitHub. Always open to collaboration and learning something new.
+I’m always open to feedback, collaborations, or new ideas. Feel free to reach out via GitHub!
