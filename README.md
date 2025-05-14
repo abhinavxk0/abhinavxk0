@@ -25,8 +25,8 @@ A football app providing real-time match updates with a clean and minimal interf
 
 ## 🗂️ Past Projects – Discord Bots
 
-### 🛠️ NearBot (Multi-Version Bot Framework)  
-Developed a series of Discord bots to automate tasks, run commands, and add fun features to servers.
+### 🛠️ NearBot 
+A multi-version Discord bot project, with each iteration adding smarter features, better structure, and more reliability. Designed for server automation, moderation, and fun utilities.
 > [v0](https://github.com/abhinavxk0/nearbeta0) • [v1](https://github.com/abhinavxk0/nearbeta1) • [v2](https://github.com/abhinavxk0/nearbot2) • [v3](https://github.com/abhinavxk0/nearbot)
 
 ---
