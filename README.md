@@ -20,4 +20,4 @@ A multi-version Discord bot project, with each iteration adding smarter features
 <br>
 
 ## Let's Connect
-I’m always open to feedback, collaborations, or new ideas. Feel free to reach out via <b><a href="mailto:4bhinavxavierkujur@gmail.com">mail</a></b>, <b><a href="https://github.com/abhinavxk0">Github</a></b>, <b><a href="https://twitter.com/abhinavkujurx" target="blank">X</a></b> or <b><a href="https://linkedin.com/in/abhinav-xavier-kujur-371569335" target="blank">LinkedIn</a></b>!
+I’m always open to feedback, collaborations, or new ideas. Feel free to reach out via <b><a href="mailto:4bhinavxavierkujur@gmail.com">mail</a></b>, <b><a href="https://twitter.com/abhinavkujurx" target="blank">X</a></b> or <b><a href="https://linkedin.com/in/abhinav-xavier-kujur-371569335" target="blank">LinkedIn</a></b>!
