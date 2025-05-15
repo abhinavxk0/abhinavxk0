@@ -39,4 +39,9 @@ A multi-version Discord bot project, with each iteration adding smarter features
 ---
 
 ## 📫 Let’s Connect  
-I’m always open to feedback, collaborations, or new ideas. Feel free to reach out via GitHub!
+I’m always open to feedback, collaborations, or new ideas. Feel free to reach out via <a href="mailto:4bhinavxavierkujur@gmail.com">mail</a>, Github, X or LinkedIn!
+<p align="left">
+<a href="https://github.com/abhinavxk0"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinavxk0" height="30" width="40" /></a>
+<a href="https://twitter.com/abhinavkujurx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavkujurx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinav-xavier-kujur-371569335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-xavier-kujur-371569335" height="30" width="40" /></a>
+</p>
