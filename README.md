@@ -1,6 +1,6 @@
 ##  About Me
 👤  Full-Stack Developer | Year 12 Student <br>
-📍  Based in <b>Kolkata, India</b> <br>
+📍  Based in <b>Kolkata, West Bengal, India</b> <br>
 ⌨️  Technologies: HTML, CSS, JavaScript<br>
 🧠  I enjoy building things that are practical, easy to use, and nice to look at!
 <br>
