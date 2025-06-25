@@ -6,7 +6,7 @@
 <br>
 
 ## My Projects
-🏫  [Official Website - Don Bosco School, Park Circus](https://www.donboscoparkcircus.org) <br>
+🏫  [Official Website - Don Bosco School, Park Circus](https://www.donboscoparkcircus.org)<br>
 Developed a responsive and user-friendly website for Don Bosco School, providing students, parents, and staff with easy access to school updates and events. <br>
 <br>
 🎉 [Bosco Fest 2025](https://www.boscofest.in) <br>
