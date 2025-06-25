@@ -9,6 +9,9 @@
 🏫  [Official Website - Don Bosco School, Park Circus](https://www.donboscoparkcircus.org) <br>
 Developed a responsive and user-friendly website for Don Bosco School, providing students, parents, and staff with easy access to school updates and events. <br>
 <br>
+🎉 [Bosco Fest 2025](https://www.boscofest.in) <br>
+Designed and developed the official website for Bosco Fest 2025, enabling smooth event registrations, real-time updates, and an engaging experience for participants and visitors. <br>
+<br>
 📆  [Upnext](https://upnext0.vercel.app)<br>
 A simple app for students to stay updated with school events and notices, designed with a focus on speed and ease of use. <br>
 <br>
