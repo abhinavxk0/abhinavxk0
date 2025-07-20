@@ -5,7 +5,7 @@
 🧠  I enjoy building things that are practical, easy to use, and nice to look at!
 <br>
 
-## My Projects
+## Team Projects
 🏫  [Official Website - Don Bosco School, Park Circus](https://www.donboscoparkcircus.org)<br>
 Developed a responsive and user-friendly website for Don Bosco School, providing students, parents, and staff with easy access to school updates and events. <br>
 <br>
@@ -13,7 +13,7 @@ Developed a responsive and user-friendly website for Don Bosco School, providing
 Designed and developed the official website for Bosco Fest 2025, enabling smooth event registrations, real-time updates, and an engaging experience for participants and visitors. <br>
 <br>
 
-## Personal Project
+## Personal Projects
 🎧 [Woofer](https://woofer.vercel.app) (latest‼️)<br> 
 A minimal web app that displays your currently playing track with album art and artist info. Built using HTML, CSS, and JavaScript — focused on clean UI, API integration, and data handling. <br>
 <br>
