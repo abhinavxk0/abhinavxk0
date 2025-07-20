@@ -12,6 +12,8 @@ Developed a responsive and user-friendly website for Don Bosco School, providing
 🎉 [Bosco Fest 2025](https://www.boscofest.in) <br>
 Designed and developed the official website for Bosco Fest 2025, enabling smooth event registrations, real-time updates, and an engaging experience for participants and visitors. <br>
 <br>
+
+## Personal Project
 🎧 [Woofer](https://woofer.vercel.app) (latest‼️)<br> 
 A minimal web app that displays your currently playing track with album art and artist info. Built using HTML, CSS, and JavaScript — focused on clean UI, API integration, and data handling. <br>
 <br>
